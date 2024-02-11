@@ -12,7 +12,7 @@ global.location = 'pakistan'
 global.gurl = 'https://instagram.com/naveeddogar_' // add your username
 global.sudo = process.env.SUDO || '923096566451'
 global.devs = '923096566451';
-global.website = 'https://github.com/naveeddogar/KING-MD' // Hello world
+global.website = 'https://github.com/naveeddogar/𝐏𝐑𝐀𝐉𝐀𝐏𝐀𝐓𝐈 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋' // Hello world
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/a6b9bbde7feaa92c69c7b.jpg'
 module.exports = {
   botname:   process.env.BOT_NAME === undefined ? 'KING-MD' : process.env.BOT_NAME,
