@@ -12,10 +12,10 @@ global.location = 'pakistan'
 global.gurl = 'https://instagram.com/naveeddogar_' // add your username
 global.sudo = process.env.SUDO || '923096566451'
 global.devs = '923096566451';
-global.website = 'https://github.com/naveeddogar/KING-MD' // Hello world
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/a6b9bbde7feaa92c69c7b.jpg'
+global.website = 'https://github.com/naveeddogar/𝐏𝐑𝐀𝐉𝐀𝐏𝐀𝐓𝐈 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 ' // Hello world
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/0111886de8874f1bfd89e.jpg'
 module.exports = {
-  botname:   process.env.BOT_NAME === undefined ? 'KING-MD' : process.env.BOT_NAME,
+  botname:   process.env.BOT_NAME === undefined ? '𝐏𝐑𝐀𝐉𝐀𝐏𝐀𝐓𝐈 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋' : process.env.BOT_NAME,
   ownername: process.env.OWNER_NAME === undefined ? 'Naveed Dogar' : process.env.OWNER_NAME,
   sessionName:  process.env.SESSION_ID === undefined ? false : process.env.SESSION_ID,
   author:  process.env.PACK_AUTHER.split(";")[0] === undefined ? 'Naveed-Dogar' : process.env.PACK_AUTHER.split(";")[0],
